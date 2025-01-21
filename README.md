@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Sania Firdose</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="![image](https://github.com/user-attachments/assets/16049d7d-3241-45b5-ab1b-2e73f351b12f)">
+<img align="right" alt="coding" width="200" src="![image](https://github.com/user-attachments/assets/acf8dca0-703d-4449-a61c-c0691a65f5b3)
+
+  
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sania-firdose&label=Profile%20views&color=0e75b6&style=flat" alt="sania-firdose" /> </p>
 
